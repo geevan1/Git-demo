@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-19T23:55:57Z" name="Surefire suite" finished-at="2019-08-19T23:55:57Z" duration-ms="28">
+    <groups>
+    </groups>
+    <test started-at="2019-08-19T23:55:57Z" name="Surefire test" finished-at="2019-08-19T23:55:57Z" duration-ms="28">
+      <class name="GeevanSelenium.SeleniumTest">
+        <test-method signature="test2_1()[pri:0, instance:GeevanSelenium.SeleniumTest@9f116cc]" started-at="2019-08-19T23:55:57Z" name="test2_1" finished-at="2019-08-19T23:55:57Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_1 -->
+        <test-method signature="test2_2()[pri:0, instance:GeevanSelenium.SeleniumTest@9f116cc]" started-at="2019-08-19T23:55:57Z" name="test2_2" finished-at="2019-08-19T23:55:57Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_2 -->
+      </class> <!-- GeevanSelenium.SeleniumTest -->
+      <class name="GeevanSelenium.ApiTest">
+        <test-method signature="test1()[pri:0, instance:GeevanSelenium.ApiTest@67d48005]" started-at="2019-08-19T23:55:57Z" name="test1" finished-at="2019-08-19T23:55:57Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:GeevanSelenium.ApiTest@67d48005]" started-at="2019-08-19T23:55:57Z" name="test2" finished-at="2019-08-19T23:55:57Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- GeevanSelenium.ApiTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
