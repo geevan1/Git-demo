@@ -4,6 +4,8 @@ import org.testng.annotations.Test;
 
 /* added to test pull and push Git only */
 
+/* added to test 2 pull and push Git only */
+
 
 public class ApiTest {
 
