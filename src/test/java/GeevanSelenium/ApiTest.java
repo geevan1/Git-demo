@@ -2,6 +2,9 @@ package GeevanSelenium;
 
 import org.testng.annotations.Test;
 
+/* added to test pull and push Git only */
+
+
 public class ApiTest {
 
 	@Test
