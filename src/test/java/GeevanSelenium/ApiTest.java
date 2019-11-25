@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 /* added to test 2 pull and push Git only */
 
 /* develop branch 1.1 */
-
+/* develop branch 2.2 */
 
 public class ApiTest {
 
